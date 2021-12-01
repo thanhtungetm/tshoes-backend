@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "619aff60581ce3d509e8583d"
+  },
+  "name": "Adidas",
+  "imgUrl": "https://i.imgur.com/tWSCUfm.png"
+},{
+  "_id": {
+    "$oid": "619b0012581ce3d509e8583f"
+  },
+  "name": "Adidas",
+  "imgUrl": "https://i.imgur.com/9dcwGhA.jpg"
+}]

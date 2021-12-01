@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "619c95b5307f5656304cd104"
+  },
+  "name": "Adidas Falcon Crystal White Navy",
+  "imgUrl": "https://saigonsneaker.com/wp-content/uploads/2020/02/falcon-white.jpg",
+  "price": "1000000",
+  "lovers": [
+    {
+      "_id": {
+        "$oid": "619c9a446cb6e729fb36fe1c"
+      }
+    }
+  ],
+  "brand": "",
+  "size": [
+    36,
+    37,
+    38,
+    45
+  ],
+  "updatedAt": {
+    "$date": "2021-11-23T08:25:56.358Z"
+  }
+},{
+  "_id": {
+    "$oid": "619c9e38307f5656304cd109"
+  },
+  "name": "Yeezy Boost 700 Wave Runner",
+  "imgUrl": "https://saigonsneaker.com/wp-content/uploads/2019/12/adidas-running-shoes.jpg",
+  "price": "1000000",
+  "lovers": [
+    {
+      "_id": {
+        "$oid": "619c9a446cb6e729fb36fe1c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "619c9f6e63fdbd783c3b7baa"
+      }
+    }
+  ],
+  "brand": "",
+  "size": [
+    36,
+    37,
+    38,
+    45
+  ],
+  "updatedAt": {
+    "$date": "2021-11-23T08:27:57.877Z"
+  }
+}]
